@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salutations! 👋
 
 <!--
 **Zxidenbel/zxidenbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Fern, a student in Computer Science at Wright State University.  
+I'm currently using Github for class work.  
+
+🪴
