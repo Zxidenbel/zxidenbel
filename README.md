@@ -19,6 +19,9 @@ I'm Fern, a student in Computer Science at Wright State University.
 I'm currently using Github for class work.  
   
 🪴  
+
+### Class Repositories
+  . CEG 2350 (Private): https://github.com/WSU-kduncan/ceg2350s25-Zxidenbel/tree/main
   
 ### Future Projects
   Over the next year, time permitting, I hope to become more experienced using the Monogame framework to develop 2D and 3D games.
