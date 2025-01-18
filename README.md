@@ -20,9 +20,6 @@ I'm currently using Github for class work.
   
 🪴  
 
-### Class Repositories
-  <li>CEG 2350 (Private): https://github.com/WSU-kduncan/ceg2350s25-Zxidenbel/tree/main
-  
 ### Future Projects
   Over the next year, time permitting, I hope to become more experienced using the Monogame framework to develop 2D and 3D games.
   Possible projects include Chess, Four Colors, a Platformer game of my own design or even a low-poly story-focused game using environments
@@ -36,10 +33,5 @@ I'm currently using Github for class work.
   #### Four Colors
   Four Colors is a simple card game. It provides more of an input challenge than Chess because of interactions between players and cards.  
   Four Colors also has the option of being networked. I may actually attempt this for Four Colors.
-  #### Platformer
-  Little has been decided about this project, but it would likely be inspired by a past abandoned concept for an action platformer
-  created by my sister and I called Ride the Skyline.
-  #### Story-Focused Game
-  ...
 
 ### Have a Wonderful Day!
