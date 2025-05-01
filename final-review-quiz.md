@@ -292,9 +292,9 @@ The first item offered to a queue will be the first item polled.
 It removes the highest priority element first.
   
 #### Explanation:  
-</details>
 A PriorityQueue does not keep its elements sorted internally. It is a concrete class
 that removes the highest priority element first.
+</details>
 <br>
 
 14. Short Answer: Why is a base case required in a recursive method?
