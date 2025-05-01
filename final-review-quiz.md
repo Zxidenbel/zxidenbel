@@ -186,7 +186,7 @@ The carat brackets and generic data type (`<T>`) follow the class name.
     * `public <T> void printItem(T item)`
     * `public void <T> printItem(T item)`
     * `public void printItem<T>(T item)`
-    * `public printItem<T>(T item)`
+    * `public printItem(T item)`
 
 <details><summary>Answer</summary>
 
