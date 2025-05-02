@@ -200,7 +200,7 @@ public String mysteryMethod(String str) {
     }
     else {
         char first = str.charAt(0);
-        first += 3;
+        first += 3; // adding to a character advances it 3 letters in the alphabet.
         return first + mysteryMethod(str.substring(1));
     }
 }
