@@ -513,6 +513,8 @@ created.
 
 ## Matching
 
+For each scenario, match the scenario to whether a stack or a queue should be used to organize data.
+
 1. Undoing actions in a text editor	
 <details><summary>Answer</summary>Stack</details><br>
 
