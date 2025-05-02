@@ -140,7 +140,7 @@ What interface is used to define an additional ordering for a class? - 4
          <li> Comparable
          <li> Collection
 <br><br>
-What method must be overwritten in a class that implements Iterable<String>?
+What method must be overwritten in a class that implements Iterable<String>? - 5
          <li> public String next()
          <li> public String hasNext()
          <li> public Collection<String> iterate()
