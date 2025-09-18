@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 I'm Fern, a student in Computer Science at Wright State University.  
   
 🪴  
-
-### Have a Wonderful Day!
